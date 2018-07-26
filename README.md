@@ -1,2 +1,2 @@
 # pool
- digital content is here
+ digital content created by human authors is put here.
